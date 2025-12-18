@@ -1,0 +1,50 @@
+.card{
+    display: flex;
+    width: 400px;
+    height: 200px;
+    gap: 50px;
+    align-items: center;
+    border: rgb(12, 86, 12) 3px solid;
+    border-radius: 15px;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 13px;
+}
+.header{
+    font-family: monospace, sans-serif;
+    font-size: 80px;
+    color: rgba(0, 103, 48, 0.803);
+    text-align: center;
+}
+.types{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 40px;
+}
+.meals{
+    display: grid;
+    grid-template-columns: auto auto ;
+    row-gap: 50px;
+    justify-content: center;
+    column-gap: 12%;
+}
+.button{
+    width: 120px;
+    height: 40px;
+    border-radius: 18px;
+    background-color: rgb(118, 193, 118);
+    font-family: monospace, sans-serif;
+    font-size: 15px;
+}
+.active-color {
+  background-color: #26681a;
+  color: #f9f9f9;
+}
+.title{
+    font-family: sans-serif;
+    font-size: 21px;
+    color: rgb(47, 86, 53);
+}
