@@ -11,42 +11,42 @@ let foods=[
         id: 1,
         title: "Pancake",
         isWhat: "breakfast",
-        img: './pancake.png',
+        img: './images/pancake.png',
         category: 'breakfast'
     },
        {
         id: 2,
         title: "Milkshake",
         isWhat: "shake",
-        img: './milkshake.png',
+        img: './images/milkshake.png',
         category: 'shake'
     },
     {
         id: 3,
         title: "Grilled Steak",
         isWhat: "dinner",
-        img: './steak.png',
+        img: './images/steak.png',
         category: 'dinner'
     },
        {
         id: 4,
         title: "Sandwich",
         isWhat: "lunch",
-        img: './lunch.png',
+        img: './images/lunch.png',
         category: 'lunch'
     },
     {
         id: 5,
         title: "Full English Breakfast",
         isWhat: "breakfast",
-        img: './breakfast2.png',
+        img: './images/breakfast2.png',
         category: 'breakfast'
     },
        {
         id: 6,
         title: "Lasagna",
         isWhat: "dinner",
-        img: './dinner2.png',
+        img: './images/dinner2.png',
         category: 'dinner'
     },
        
